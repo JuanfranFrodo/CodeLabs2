@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-# CodeLabs2
 
-Proyecto de prácticas de desarrollo en Java.
-
-## 🚀 Tecnologías
-* **Lenguaje:** Java
-* **IDE:** IntelliJ IDEA
-* **Rama de trabajo:** NuevaProbar
-=======
 # CodeLabs2 🚀
 
 Repositorio principal para el desarrollo de actividades, ejercicios y proyectos en Java utilizando IntelliJ IDEA.
